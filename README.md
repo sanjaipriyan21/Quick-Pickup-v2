@@ -45,9 +45,9 @@ Quick Pickup is a food ordering platform designed to simplify hotel operations t
 
 📂 Project Structure
 
-quick-pickup-v2/
-│
-├── public/                                                                                                                                                                                  
+quick-pickup-v2/                                                                                                                                                                            
+│                                                                                                                                                                                            
+├── public/                                                                                                                                                                                                                                                                    
 │   ├── butter-naan.jpg                                                                                                                                                                      
 │   ├── chicken-65.jpg                                                                                                                                                                      
 │   ├── chicken-biryani.jpg                                                                                                                                                                  
